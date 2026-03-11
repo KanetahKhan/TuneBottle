@@ -1,5 +1,5 @@
 # 🍾 TuneBottle
-
+> 🚧*Too lazy to wire up the API right now. Will finish this later.*
 > *Send a song into the sea. Wait for the tide.*
 
 TuneBottle is a music pen-pal app where you anonymously throw a song + one-line note into a shared ocean. A stranger finds it. They reply with their own song. Like pen pals, but through music.
